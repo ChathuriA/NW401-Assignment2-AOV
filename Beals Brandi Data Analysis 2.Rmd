@@ -1,6 +1,6 @@
 ---
 title: 'Data Analysis Assignment #2'
-author: "Beals, Brandi"
+author: " Xiangyu He   "
 output:
 html_document: default
 ---
